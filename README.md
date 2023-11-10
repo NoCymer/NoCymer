@@ -5,7 +5,7 @@ I'm Lobsang RIGARD also known as NoCymer.<br/>
 - 🇨🇵 French student in IT
 - 🐧 Linux enthusiast
   
-I created several projects which you can find down below. Stay safe 🧠
+I created several projects which you can find down below. See ya, stay safe and keep coding. 🧠
 
 ## Major projects
 <div align="center">
